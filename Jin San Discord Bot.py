@@ -5,7 +5,7 @@ import requests
 import json
 
 #Jin San Discord Bot.
-#By:  ViridianTelamon
+#By:  ViridianTelamon.
 
 client = discord.Client()
 
